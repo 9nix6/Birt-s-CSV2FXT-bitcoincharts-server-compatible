@@ -8,4 +8,5 @@ The original version of the script as well as the latest version Tick Data Suite
 The version of the CSV2FXT_renko_mod_b574m1 file for [renko charts](https://www.az-invest.eu/renko-tick-chart-plug-in-for-metatrader4) that is also compatible with bitcoincharts server data is also included in the Dist/MT4/MQL4/Scripts folder.
 
 **Dist** folder contains compiled binaries
+
 **Src** folder contains the source code files (only needed if you intend to modify the code for your needs)
